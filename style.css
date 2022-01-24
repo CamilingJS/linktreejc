@@ -115,6 +115,32 @@ body {
 .kimbaplink a {
   color: white;
 }
+.jaycamdev {
+  background-image: url('./JayCamDev.gif');
+  width: 90%;
+  margin: 5px; 
+  height: 260px;
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+.jaycamdevlink {
+  height: 50px;
+  width: 90%;
+  background-image: linear-gradient(80deg, #25bfcb, #e628a4);
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  border-radius: 5px;
+  margin: 10px;
+}
+.jaycamdevlink a {
+  color: white; 
+}
 
 .portfolio {
   background-image: url('./portfolioV2.png');
