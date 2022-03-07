@@ -169,6 +169,33 @@ body {
   color: white; 
 }
 
+.upwork {
+  background-image: url('./Upwork.gif');
+  width: 90%;
+  margin: 5px; 
+  height: 260px;
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+.upworklink {
+  height: 50px;
+  width: 90%;
+  background-image: linear-gradient(80deg, #25bfcb, #e628a4);
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  border-radius: 5px;
+  margin: 10px;
+}
+.upworklink a {
+  color: white; 
+}
+
 footer {
   text-align: center;
   font-family: 'Poppins', sans-serif;
